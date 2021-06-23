@@ -23,7 +23,6 @@ body {
 .square {
   background-color: #4b3c3c;
   display: flex;
-
   height: 16px;
   width: 16px;
   margin: 2px;
